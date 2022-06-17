@@ -8,14 +8,7 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDAbguWG23CukpdIIrwfRyTjofxdSFVEp4",
-  authDomain: "firechat-abcfd.firebaseapp.com",
-  databaseURL: "https://firechat-abcfd-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "firechat-abcfd",
-  storageBucket: "firechat-abcfd.appspot.com",
-  messagingSenderId: "703131626373",
-  appId: "1:703131626373:web:815b17f81dfc270eeab2ec",
-  measurementId: "G-S9JD37YGET"
+  //USE YOUR AUTH CREDENTIALS HERE
 };
 
 // Initialize Firebase
